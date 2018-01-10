@@ -9,4 +9,4 @@ end
 
 
 print_business_card(Kevin)
-print_business_card(Kevin)
+print_business_card(Bill)
