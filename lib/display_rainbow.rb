@@ -7,3 +7,5 @@ def display_rainbow(colors)
 end
 
 display_rainbow(colors)
+
+#outputs -- R: red, O: orange, Y: yellow, G: green, B: blue, I: indigo, V: violet
